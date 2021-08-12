@@ -25,7 +25,7 @@ if kurd == '1':
     print('''
 [+] Orginal Report 
 [+] Spam
-[+] WA7SH STAF
+[+] 
 ''')
     time.sleep(1)
     print('[!] Report All ....')
