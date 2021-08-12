@@ -9,23 +9,6 @@ print("""
    
                                                                                                                               
                                                                                                                               
-WWWWWWWW                           WWWWWWWW   AAA               77777777777777777777   SSSSSSSSSSSSSSS HHHHHHHHH     HHHHHHHHH
-W::::::W                           W::::::W  A:::A              7::::::::::::::::::7 SS:::::::::::::::SH:::::::H     H:::::::H
-W::::::W                           W::::::W A:::::A             7::::::::::::::::::7S:::::SSSSSS::::::SH:::::::H     H:::::::H
-W::::::W                           W::::::WA:::::::A            777777777777:::::::7S:::::S     SSSSSSSHH::::::H     H::::::HH
- W:::::W           WWWWW           W:::::WA:::::::::A                      7::::::7 S:::::S              H:::::H     H:::::H  
-  W:::::W         W:::::W         W:::::WA:::::A:::::A                    7::::::7  S:::::S              H:::::H     H:::::H  
-   W:::::W       W:::::::W       W:::::WA:::::A A:::::A                  7::::::7    S::::SSSS           H::::::HHHHH::::::H  
-    W:::::W     W:::::::::W     W:::::WA:::::A   A:::::A                7::::::7      SS::::::SSSSS      H:::::::::::::::::H  
-     W:::::W   W:::::W:::::W   W:::::WA:::::A     A:::::A              7::::::7         SSS::::::::SS    H:::::::::::::::::H  
-      W:::::W W:::::W W:::::W W:::::WA:::::AAAAAAAAA:::::A            7::::::7             SSSSSS::::S   H::::::HHHHH::::::H  
-       W:::::W:::::W   W:::::W:::::WA:::::::::::::::::::::A          7::::::7                   S:::::S  H:::::H     H:::::H  
-        W:::::::::W     W:::::::::WA:::::AAAAAAAAAAAAA:::::A        7::::::7                    S:::::S  H:::::H     H:::::H  
-         W:::::::W       W:::::::WA:::::A             A:::::A      7::::::7         SSSSSSS     S:::::SHH::::::H     H::::::HH
-          W:::::W         W:::::WA:::::A               A:::::A    7::::::7          S::::::SSSSSS:::::SH:::::::H     H:::::::H
-           W:::W           W:::WA:::::A                 A:::::A  7::::::7           S:::::::::::::::SS H:::::::H     H:::::::H
-            WWW             WWWAAAAAAA                   AAAAAAA77777777             SSSSSSSSSSSSSSS   HHHHHHHHH     HHHHHHHHH
-                                                                                                                              
                                                                                                                               
                                                                                                                               
                                                                                                                               
